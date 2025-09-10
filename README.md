@@ -23,6 +23,6 @@ Each row represents the monthly ESG report of a branch.
 This dataset can be used for:
 - Machine Learning (predict energy/fuel usage, complaints trends, etc.)
 - ESG reporting and analytics
-- Research on sustainability in postal/logistics sectors
+- Research on sustainability 
 
 
